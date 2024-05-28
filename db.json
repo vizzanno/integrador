@@ -1,9 +1,21 @@
-[
+{
+  "remessa": [
     {
-        "codEstabelecimento": 2,
-        "idEstabelecimento": 334500427906,
-        "endContribuinte": "R VINTE E DOIS - 485, CIDADE JARDIM",
-        "dataCompetencia": 200005,
-        "fpas": 2058
+      "codEstabelecimento": 2,
+      "idEstabelecimento": 334500427906,
+      "endContribuinte": "R VINTE E DOIS - 485, CIDADE JARDIM",
+      "dataCompetencia": 200005,
+      "fpas": 2058,
+      "tipoDocumento": 12,
+      "numDocumento": 73786019,
+      "valorItemElemCob": 30.2,
+      "multa": 302.0,
+      "juros": 0.0,
+      "statusRubrica": 1031,
+      "cpf": 54578167615,
+      "idCei": 334500427906,
+      "fundLegal": 11301,
+      "dtLiquidacao": 20040310
     }
-]
+  ]
+}
