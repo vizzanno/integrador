@@ -1,6 +1,5 @@
 {
-  "remessa": [
-    {
+  "remessa": {
       "codEstabelecimento": 2,
       "idEstabelecimento": 334500427906,
       "endContribuinte": "R VINTE E DOIS - 485, CIDADE JARDIM",
@@ -17,5 +16,4 @@
       "fundLegal": 11301,
       "dtLiquidacao": 20040310
     }
-  ]
 }
